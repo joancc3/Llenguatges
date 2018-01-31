@@ -3,9 +3,9 @@ pageEncoding="ISO-8859-1"%>
 
 <html>
 <head>
-<title>JSP Hola Eclipse </title>
+<title>JSP Hola MVS </title>
 </head>
 <body>
-<%= "Hola Eclipse!" %>
+<%= "Hola Visual Studio!" %>
 </body>
 </html>
